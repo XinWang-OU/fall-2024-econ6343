@@ -1,0 +1,4 @@
+married,collgrad,race,industry,occupation,wage,grade
+Never married,Yes,White,1,1,10.0,12
+Married,No,Black,2,1,15.0,
+Never married,Yes,White,1,2,20.0,10
